@@ -16,11 +16,11 @@ This repository explores various approaches to lip reading, leveraging both trad
 
 - **haarcascade_mcs_mouth.xml**  
   Pre-trained Haar Cascade model for mouth detection.
-  
+
 - **Deep Learning Approach.ipynb**  
   Explores deep learning models for lip reading, incorporating modern neural network architectures.
 
-  - **LipReading.ipynb**  
+- **LipReading.ipynb**  
   Contains initial manipulations and explorations with traditional deep learning techniques.
 
 ---
